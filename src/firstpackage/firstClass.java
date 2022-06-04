@@ -6,6 +6,7 @@ public class firstClass {
     //third commitgit
     //songul baltanxc
     //we just created a new remote repository
-
+    //This update will not be in songul branch
+    git
 FDS
 }
